@@ -1,7 +1,7 @@
 ### Olá! Me chamo Alisson Carvalho Machado, tenho 28 anos, acadêmico de Análise e Desenvolvimento de Sistemas!
 
 - 🔭 Trabalho atualmente: Auxiliar administrativo.
-- 🌱 Estudando: Html, CSS, Java Script, C, Lua.
+- 🌱 Estudando: Html, CSS, Java Script, e C.
 
 <div align="center">
   <a href="https://github.com/alissoncmachado">

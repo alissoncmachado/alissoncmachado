@@ -1,4 +1,4 @@
-### Olá! Me chamo Alisson Carvalho Machado, tenho 28 anos, acadêmico de Análise e Desenvolvimento de Sistemas!
+### Olá! Me chamo Alisson Carvalho Machado, tenho 30 anos!
 
 - 🔭 Trabalho atualmente: Auxiliar de estoque/Operador de empilhadeira.
 - 🌱 Em busca de conhecimento e oportunidade na área da programação.
